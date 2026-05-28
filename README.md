@@ -33,3 +33,7 @@ pull
 build
 ```
 ### **This is only an example of how our recipes could look like.**
+And I also plan on Implementing **Fakeroot** Just as a safety net incase anything goes wrong during the build process.
+
+## License
+GPL-3.0 — fork it, improve it, keep it **free**.
