@@ -3,7 +3,7 @@
 It's a **simple** Package manager for **SolsticeOS**, Currently It will be written in bash but we will migrate it to another language if possible.
 
 ## Why?
-Sadly, I only know how to code in **Bash** So I decided to use my current Skills to make a rough prototype of how Solpm could be.
+ At  the moment I'm learning GO, but I'll  still  prototype with bash, ~~Sadly, I only know how to code in **Bash**~~ So I decided to use my current Skills to make a rough prototype of how Solpm could be.
 
 ## Binary or source ?
 As of now I'll be working on Solpm's abillity to work with source code, and binaries are somewhat of an afterthought unless it is requested by the community.
