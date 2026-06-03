@@ -3,7 +3,7 @@
 It's a **simple** Package manager for **SolsticeOS**, Currently It will be written in bash but we will migrate it to another language if possible.
 
 ## Why?
- At  the moment I'm learning GO, but I'll  still  prototype with bash, ~~Sadly, I only know how to code in **Bash**~~ So I decided to use my current Skills to make a rough prototype of how Solpm could be.
+ At  the moment I'm learning GO, but I'll  still  prototype with bash, ~~Sadly, I only know how to code in Bash~~ So I decided to use my current Skills to make a rough prototype of how Solpm could be.
 
 ## Binary or source ?
 As of now I'll be working on Solpm's abillity to work with source code, and binaries are somewhat of an afterthought unless it is requested by the community.
@@ -14,6 +14,7 @@ The recipe format is also gonna be written in **Bash Script**, So each recipe is
 PKG="linux"
 VER="7.1-rc5"
 DEP=""
+TYPE="source"
 SRC="https://cdn.kernel.org/pub/linux/kernel/v7.x/linux-${VER}.tar.xz"
 
 pull() {
